@@ -1,0 +1,12 @@
+extends baseEmail
+
+block content
+    p Hi #{firstName},
+    p From your Cyber Crime Report, we were able to get some potential cause of the incident 🎉🙏
+    p We believe the potential cause of this incidence is a type of cyber Crime called #{cyberCrime}
+    p Here are some tips to protect yourself against this kind of cyber crime
+    ul
+        each val, index in tips
+            li= index + ': ' + val
+    p If you need any help with creating a blog, please don't hesitate to contact me!
+    p - Joshua Uzoagulu, CEO

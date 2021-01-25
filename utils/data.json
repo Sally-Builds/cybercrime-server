@@ -1,0 +1,30 @@
+{
+  "phishing": {
+    "One": "Employ common sense before handing over sensitive information.",
+    "Two": "Never trust alarming messages.",
+    "Three": "Do not open attachments from untrusted sources",
+    "Four": "Avoid clicking embedded links",
+    "Five": "Keep your software and operating system up to date."
+  },
+  "hacking": {
+    "One": "If you’re browsing the internet from a public Wi-Fi network, make sure to use a VPN to prevent hackers from accessing your data.",
+    "Two": "Some hackers may also use fake antivirus programs to distribute malware to unsuspecting users, which is why you should only use reputable antivirus software to keep your computer and your files safe.",
+    "Three": "Do not keep easy passwords such as- your name followed by1234, your pet name or name & date of birth",
+    "Four": "Avoid storing your login credentials on your computer, always try to memorize your login information"
+  },
+  "identityTheft": {
+    "One": "Stay Away From Shady Websites and Links",
+    "Two": "Never Give Out Personal Information",
+    "Three": "Regularly Check Your Credit Reports",
+    "Four": "Protect Documents With Personal Information",
+    "Five": "Mix up Your Passwords"
+  },
+  "malware": {
+    "One": "Install Anti-virus software",
+    "Two": "Regularly update software",
+    "Three": "Only buy Apps from trusted sources",
+    "Four": "Don’t click on suspicious links or download attachments from unknown sources",
+    "Five": "Install Firewall",
+    "Six": "Back up data regularly"
+  }
+}

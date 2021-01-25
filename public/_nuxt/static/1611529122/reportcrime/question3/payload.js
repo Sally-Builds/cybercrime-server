@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/reportcrime/question3", {data:[{}],fetch:[],mutations:[]});
