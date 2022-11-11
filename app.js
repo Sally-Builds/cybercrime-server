@@ -41,7 +41,7 @@ app.use('/api/v1/users', userRouter);
 app.use('/api/v1/blogs', blogRouter);
 app.use('/api/v1/questions', questionsRouter);
 
-if (process.env.NODE_ENV === 'production') {
+if (true) {
   app.use(express.static(`${__dirname}/public/`));
   app.get(/.*/, (req, res) => res.sendFile(`${__dirname}/public/index.html`));
 }
